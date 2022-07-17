@@ -22,7 +22,7 @@ Não há distribuição de softwares de terceiros neste repositório, apenas os 
 
 # Correções não oficiais
 
-[**Office Word 2013, 2016, 2021 CVE-2022-30190**]Consiste na correção de uma falha que permite a execução de códigos maliciosos a partir da utilização de extensões .RTF linkadas ao aplicativo Word. Esta falha permite que o atacante execute o código sem nem mesmo precisar que a vítima abra o arquivo, basta navegar na pasta em que o arquivo está.
+[**Office Word 2013, 2016, 2021 CVE-2022-30190**] - Consiste na correção de uma falha que permite a execução de códigos maliciosos a partir da utilização de extensões .RTF linkadas ao aplicativo Word. Esta falha permite que o atacante execute o código sem nem mesmo precisar que a vítima abra o arquivo, basta navegar na pasta em que o arquivo está.
 
 
 # Aplicativos
